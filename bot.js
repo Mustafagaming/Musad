@@ -4,7 +4,7 @@ const prefix = 'M.'
 
 client.on('ready', () => {
   console.log(`Logged in as ${client.user.tag}!`);
-client.user.setGame(`Nothing`,"https://www.twitch.tv/must4f4_gamer")
+client.user.setGame(`Type M.help ❣`,"https://www.twitch.tv/must4f4_gamer")
   console.log('')
   console.log('')
   console.log('╔[═════════════════════════════════════════════════════════════════]╗')
