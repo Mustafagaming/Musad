@@ -203,6 +203,6 @@ client.on('guildMemberRemove', member => {
            
        .setDescription(" مدة الرابط : ساعه  عدد استخدامات الرابط : 1 ")
          message.author.sendEmbed(Embed11);
-    });
+    })
       
 client.login(process.env.BOT_TOKEN);
